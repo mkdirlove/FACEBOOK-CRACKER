@@ -4,7 +4,7 @@
 
 ### Download&Install
 
-### git clone https://github.com/UsuyModdedSymos/facebook-cracker
+### git clone https://github.com/mkdirlove/FACEBOOK-CRACKER
    
 ### cd facebook-cracker
 
